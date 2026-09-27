@@ -1,0 +1,9 @@
+* text=auto
+*.cs      text diff=csharp
+*.csproj  text
+*.slnx    text
+*.props   text
+*.targets text
+*.sh      text eol=lf
+*.png     binary
+*.jpg     binary
